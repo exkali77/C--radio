@@ -1,0 +1,30 @@
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\bin\Debug\Radio.exe.config
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\bin\Debug\Radio.exe
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\bin\Debug\Radio.pdb
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\bin\Debug\Interop.WMPLib.dll
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\obj\Debug\Radio.csproj.AssemblyReference.cache
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\obj\Debug\Interop.WMPLib.dll
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\obj\Debug\Radio.csproj.ResolveComReference.cache
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\obj\Debug\Radio.Form1.resources
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\obj\Debug\Radio.Properties.Resources.resources
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\obj\Debug\Radio.csproj.GenerateResource.cache
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\obj\Debug\Radio.csproj.CoreCompileInputs.cache
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\obj\Debug\Radio.exe
+C:\Users\sns_k\Documents\Visual Sutudio 2019 Proje\Radio\Radio\obj\Debug\Radio.pdb
+C:\Users\sns_k\Desktop\Radio\Radio\bin\Debug\Radio.exe.config
+C:\Users\sns_k\Desktop\Radio\Radio\bin\Debug\Radio.exe
+C:\Users\sns_k\Desktop\Radio\Radio\bin\Debug\Radio.pdb
+C:\Users\sns_k\Desktop\Radio\Radio\bin\Debug\Interop.WMPLib.dll
+C:\Users\sns_k\Desktop\Radio\Radio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sns_k\Desktop\Radio\Radio\obj\Debug\Radio.csproj.AssemblyReference.cache
+C:\Users\sns_k\Desktop\Radio\Radio\obj\Debug\Interop.WMPLib.dll
+C:\Users\sns_k\Desktop\Radio\Radio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sns_k\Desktop\Radio\Radio\obj\Debug\Radio.csproj.ResolveComReference.cache
+C:\Users\sns_k\Desktop\Radio\Radio\obj\Debug\Radio.Form1.resources
+C:\Users\sns_k\Desktop\Radio\Radio\obj\Debug\Radio.Properties.Resources.resources
+C:\Users\sns_k\Desktop\Radio\Radio\obj\Debug\Radio.csproj.GenerateResource.cache
+C:\Users\sns_k\Desktop\Radio\Radio\obj\Debug\Radio.csproj.CoreCompileInputs.cache
+C:\Users\sns_k\Desktop\Radio\Radio\obj\Debug\Radio.exe
+C:\Users\sns_k\Desktop\Radio\Radio\obj\Debug\Radio.pdb
